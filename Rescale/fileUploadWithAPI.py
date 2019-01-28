@@ -1,6 +1,4 @@
 '''
-Created on Jan 28, 2019
-
 @author: siddardha.teegela
 '''
 import requests
